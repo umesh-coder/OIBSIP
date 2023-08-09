@@ -6,7 +6,7 @@
 <a href="https://umesh-coder.github.io/OIBSIP/Task-1/calculator.html">Live</a> </h3>
 
 <h2> Task-2 - Tribute Page </h2>
-<h3> A tribute page created under the virtual internship program of Oasis Infobyte. <br> 
+<h3> A tribute page created under the virtual internship program of Oasis Infobyte.b <br> 
 <a href="https://umesh-coder.github.io/OIBSIP/Task-2/tribute_page.html">Live</a> </h3>
 
 
